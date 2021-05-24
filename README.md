@@ -4,7 +4,7 @@
 
 <h3>Поехали!</h3>
 
-<img width="270px" src="https://trockii.space/rocket.png"></img>
+<img width="200px" src="https://trockii.space/rocket.png"></img>
 
 - 👋 Hi, I’m @KosmonavTUSSR
 - 👀 I’m Killer ...
