@@ -1,11 +1,11 @@
 
 
 # Welcome to KosmonavT!
-
+<p style="text-align: center;">
 <h3 style="text-align: center;">Поехали!</h3>
 
 <img width="200px" src="https://trockii.space/rocket.png" style="text-align: center;"></img>
-
+</p>
 - 👋 Hi, I’m @KosmonavTUSSR
 - 👀 I’m Killer ...
 - 🌱 I’m Murder ...
