@@ -2,9 +2,9 @@
 
 # Welcome to KosmonavT!
 
-<h3>Поехали!</h3>
+<h3 style="text-align: center;">Поехали!</h3>
 
-<img width="200px" src="https://trockii.space/rocket.png"></img>
+<img width="200px" src="https://trockii.space/rocket.png" style="text-align: center;"></img>
 
 - 👋 Hi, I’m @KosmonavTUSSR
 - 👀 I’m Killer ...
