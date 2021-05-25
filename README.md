@@ -7,7 +7,7 @@
 
 <img width="100%" src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" style="text-align: center;"></img>
 
-<span style="margin:100px 100px 0px 100px"><img width="150px" src="https://trockii.space/rocket.png" ></img></span>
+- <span style="margin:100px 100px 0px 100px"><img width="150px" src="https://trockii.space/rocket.png" ></img></span>
 - 👋 Hi, I’m @KosmonavTUSSR
 - 👀 I’m Killer ...
 - 🌱 I’m Murder ...
