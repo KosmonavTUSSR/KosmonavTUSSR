@@ -1,13 +1,13 @@
 
 
 # Welcome to KosmonavT!
-<p style="text-align: center;">
+
 <h3 style="text-align: center;">Поехали!</h3>
 
-<img width="200px" src="https://trockii.space/rocket.png" style="margin:100px 100px 0px 100px"></img>
-<img width="100%" src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" style="text-align: center;"></img>
-</p>
 
+<img width="100%" src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" style="text-align: center;"></img>
+
+<span style="margin:100px 100px 0px 100px"><img width="200px" src="https://trockii.space/rocket.png" ></img></span>
 - 👋 Hi, I’m @KosmonavTUSSR
 - 👀 I’m Killer ...
 - 🌱 I’m Murder ...
