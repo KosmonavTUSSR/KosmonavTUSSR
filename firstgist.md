@@ -161,7 +161,10 @@ db.users.find().pretty() //Отображаем записи в БД
 >Не забывай про **;**
 
 ``psql -d signum_service`` // Подключение к БД
+
 ``SELECT id, name,host FROM cameras; `` // Показать ID, Name, Host(ip) из таблицы "Камеры"
+
 ``UPDATE cameras SET name = 'Blabla' WHERE id = N;`` // Меняем поле "Name", с выборкой по ID
+
 
 > Перезапусти сервер, для просмотра изменений 
