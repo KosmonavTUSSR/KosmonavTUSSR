@@ -1,8 +1,4 @@
 
-
-<h3 style="text-align: center;">Start?!</h3>
-
-
 <img width="100%" src="https://github.com/KosmonavTUSSR/KosmonavTUSSR/blob/main/icon-192x192.png?raw=true" style="text-align: center; width: 15%; margin: 0px auto;  "></img>
 
 <h1 style="text-align: center;">ᛒᚤᚳᛕᚤ ᛠᛊᚢᚳⰓᛁᛋ ᛖᛊᛟ</h1>
